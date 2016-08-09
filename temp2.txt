@@ -1,0 +1,24 @@
+ Volume in drive C is Acer
+ Volume Serial Number is 362A-2207
+
+ Directory of C:\utd\160802Socially
+
+08/09/2016  07:23 PM    <DIR>          .
+08/09/2016  07:23 PM    <DIR>          ..
+08/02/2016  06:29 PM               395 .gitattributes
+08/02/2016  06:30 PM                13 .gitignore
+08/09/2016  07:22 PM    <DIR>          .idea
+08/02/2016  07:03 PM    <DIR>          .meteor
+08/06/2016  11:08 PM               679 160802Socially.iml
+08/05/2016  01:05 AM    <DIR>          client
+08/09/2016  07:16 PM    <DIR>          node_modules
+08/09/2016  07:23 PM            25,361 npm-shrinkwrap.json
+08/09/2016  02:17 AM               670 package.json
+08/02/2016  07:04 PM    <DIR>          server
+08/09/2016  07:20 PM             1,012 temp.txt
+08/09/2016  07:23 PM                 0 temp2.txt
+08/02/2016  07:04 PM               440 tsconfig.json
+08/05/2016  12:41 AM    <DIR>          typings
+08/05/2016  12:41 AM               273 typings.json
+               9 File(s)         28,843 bytes
+               8 Dir(s)  11,805,573,120 bytes free
